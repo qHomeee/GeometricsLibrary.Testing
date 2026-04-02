@@ -62,7 +62,7 @@ namespace GeometricsLibrary.Testing
             {
                 var triangle = new Triangle(3, 4, 5);
                 var angles = triangle.GetAngles();
-                Assert.AreEqual(90, angles.AngleC, 1e-1);
+                Assert.AreEqual(90, angles.AngleC);
             }
 
             [TestMethod]
