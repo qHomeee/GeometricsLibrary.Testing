@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeometricsLibrary.Testing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ef229a90e9f81277a79272cefefbae47e453489")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e2a6e01ad33150fc6f625bd49359372db0cfdb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeometricsLibrary.Testing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeometricsLibrary.Testing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
